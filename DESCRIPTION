@@ -1,0 +1,17 @@
+Package: qSOFA
+Title: Calculate qSOFA (Quick Sepsis-Related Organ Failure Assessment) Following Sepsis Guideline 3
+Version: 0.1.0
+Date: 2017-06-21
+Authors@R: person("June-sung", "Kim", email = "jsmeet09@gmail.com", role = c("aut", "cre"))
+Description: This package is used for calculation of qSOFA (Quick Sepsis-Related Organ Failure Assessment) following Sepsis Guideline 3.
+Depends:
+    R (>= 3.3.2)
+Encoding: UTF-8
+License: GPL-3
+LazyData: true
+Copyright: 2017, June-Sung Kim
+NeedsCompilation: no
+URL: https://github.com/asancpt/qSOFA
+BugReports: https://github.com/asancpt/qSOFA/issues
+RoxygenNote: 6.0.1
+Maintainer: June-Sung Kim <jsmeet09@gmail.com>
